@@ -1,0 +1,17 @@
+Pt: 0x656B696C 0x20646E75
+Mk: 0x1B1A1918 0x13121110 0x0B0A0908 0x03020100
+Process Enc
+Ct: 0x44C8FC20 0xB9DFA07A
+Process Dec
+Pt: 0x656B696C 0x20646E75
+
+Test  1 rounds: with   0 bits achieving full diffusion
+Test  2 rounds: with   0 bits achieving full diffusion
+Test  3 rounds: with   0 bits achieving full diffusion
+Test  4 rounds: with   0 bits achieving full diffusion
+Test  5 rounds: with   0 bits achieving full diffusion
+Test  6 rounds: with   0 bits achieving full diffusion
+Test  7 rounds: with   0 bits achieving full diffusion
+Test  8 rounds: with  32 bits achieving full diffusion
+Test  9 rounds: with  64 bits achieving full diffusion
+Test 10 rounds: with  64 bits achieving full diffusion

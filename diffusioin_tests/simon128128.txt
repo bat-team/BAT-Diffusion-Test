@@ -1,0 +1,20 @@
+Pt: 0x6373656420737265 0x6C6C657661727420
+Mk: 0x0F0E0D0C0B0A0908 0x0706050403020100
+Process Enc
+Ct: 0x49681B1E1E54FE3F 0x65AA832AF84E0BBC
+Process Dec
+Pt: 0x6373656420737265 0x6C6C657661727420
+
+Test  1 rounds: with   0 bits achieving full diffusion
+Test  2 rounds: with   0 bits achieving full diffusion
+Test  3 rounds: with   0 bits achieving full diffusion
+Test  4 rounds: with   0 bits achieving full diffusion
+Test  5 rounds: with   0 bits achieving full diffusion
+Test  6 rounds: with   0 bits achieving full diffusion
+Test  7 rounds: with   0 bits achieving full diffusion
+Test  8 rounds: with   0 bits achieving full diffusion
+Test  9 rounds: with   0 bits achieving full diffusion
+Test 10 rounds: with   0 bits achieving full diffusion
+Test 11 rounds: with   0 bits achieving full diffusion
+Test 12 rounds: with  64 bits achieving full diffusion
+Test 13 rounds: with 128 bits achieving full diffusion

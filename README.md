@@ -4,7 +4,7 @@ Diffusion tests of round functions and key schedules of BAT block ciphers.
 
 ## The diffusion tests of round functions
 
-We test the rounds of achieving full diffusion (**at bit level**) for BAT-64, BAT-128, SIMON-64 and SIMON-128. The codes for these tests are given in BAT and SIMON directories. And the results for SIMON are the same as the results given in SKINNY [1]. The results can be found in the directory **[diffusion_tests](https://github.com/bat-team/BAT-Diffusion-Test/tree/master/diffusioin_tests)**.
+We test the rounds of achieving full diffusion (**at bit level**) for BAT-64, BAT-128, SIMON-64 and SIMON-128. The codes for these tests are given in BAT and SIMON directories. The results can be found in the directory **[diffusion_tests](https://github.com/bat-team/BAT-Diffusion-Test/tree/master/diffusioin_tests)**.
 
 | Cipher    | Rounds for full diffusion |
 |:---------:|:-------------------------:|
@@ -27,11 +27,5 @@ Like for SIMON-64128 (full 44 rounds), we can get the following results for the 
 - max: the bit in current round subkey that has the maximum number of master key bits involved.
 - len: the length of current round subkey in terms of bit.
 - avg: the involved number of master key bits for each bit of round subkey on average.
-
-
-
-## References
-
-[1] [The SKINNY Family of Block Ciphers and its Low-Latency Variant MANTIS](https://eprint.iacr.org/2016/660)
 
 
